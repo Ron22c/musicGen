@@ -28,7 +28,7 @@ class Settings(BaseSettings):
     paid_user_max_tokens: int = 2048
     max_configurable_tokens: int = 4096
     
-    hf_home: str = "./models"
+    hf_home: str = "./model"
     
     class Config:
         # Use absolute path to .env file relative to this config.py file

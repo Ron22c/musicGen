@@ -42,7 +42,7 @@ yarn-error.log*
 *.swo
 *~
 
-backend/models/
+backend/model/
 
 
 *.log
