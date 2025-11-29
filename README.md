@@ -71,7 +71,7 @@ frontend/
 1. Install dependencies:
 ```bash
 cd backend
-uv pip install -r requirements.txt --index-url https://pypi.ci.artifacts.walmart.com/artifactory/api/pypi/external-pypi/simple --allow-insecure-host pypi.ci.artifacts.walmart.com
+uv pip install -r requirements.txt
 ```
 
 2. Copy environment file and configure:
